@@ -45,7 +45,7 @@ To setup the data folders properly, please note that a different folder must be 
     <em>Figure 4. An example of data folder setup. </em>
 </p>
 
-Within each folder listed above, place the corresponding recorded Doppler ultrasound audio files to be assessed. The user must create a third folder under _“Code_to_run”_ and name it _"Models"_. The available models in this repository, i.e., "RAW_PRECORDIAL.h5" and "RAW_SUBCLAVIAN.h5" should be placed in this folder.
+Within each folder listed above, place the corresponding recorded Doppler ultrasound audio files to be assessed. The user must create a third folder under _“Code_to_run”_ and name it _"Models"_. The available models in this repository, i.e., **"RAW_PRECORDIAL.h5"** and **"RAW_SUBCLAVIAN.h5"** should be placed in this folder.
 ## 3)	Required Python package installation
 To install the required packages, in your Anaconda environment under the “Environment” tab, click on “Open Terminal” (‘Environments’ → ‘Green circle button to the right of your environment name’ → ‘Open Terminal’). An example is shown below:
 
