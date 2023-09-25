@@ -5,7 +5,9 @@ This repository provides a step-by-step guide for an end-user to grade a Doppler
 **Important disclaimer**: We make no claim to the accuracy of this program beyond what we originally published [1]. Based on that publication, our expectation is that our model results in 84.9% and 90.4% average ordinal accuracy for precordial and subclavian VGE grades, respectively (with a weighted kappa coefficient of 0.61 and 0.67 that indicates substantial agreement similar to human inter-rater agreement for this type of data). For details on expected accuracy and performance, please refer to the full publication. By using this program as described herein, the user confirms their understanding that (1) this model was developed and tested on previously acquired data, (2) the development team may release new models with expected better performance in the future, and (3) a risk always remains that it may not generalize well to new data. The user accepts all risks and potential consequences of use including, but not limited to, inaccurate results. We welcome feedback on usability and accuracy – please email papadopoulou@unc.edu or aazarang@unc.edu. 
 ## 1)	Anaconda installation and code setup
 Download the GitHub zip-file of the Doppler code from the link below:
+
 https://github.com/papadopoulouV/User-guide-for-an-end-user-to-run-the-script-of-VGE-grading-in-Doppler-ultrasound-audio/archive/refs/heads/main.zip
+
 and extract the file to your Desktop (or your desired location). An example of the code placement is shown below: 
 
 <p align="center">
