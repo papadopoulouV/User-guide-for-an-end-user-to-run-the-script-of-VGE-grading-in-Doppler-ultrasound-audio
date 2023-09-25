@@ -95,6 +95,10 @@ Upon applying the proper model, the results are displayed in two different modes
 
 These two modes are annotated in the code in two different sections.
 
+## Synthetic Doppler Dataset
+
+https://datadryad.org/stash/dataset/doi:10.5061/dryad.xgxd254kp
+
 ## License 
 The codes are licensed under GPL-2.0 license.
 
