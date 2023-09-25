@@ -17,7 +17,9 @@ and extract the file to your Desktop (or your desired location). An example of t
 </p>
 
 Then, install Anaconda from the following website (the steps are straightforward): 
+
 https://www.anaconda.com/download
+
 Once the downloading and installation have been completed, open the software and install the built-in Jupyter Notebook as depicted below (please note that the window below is located under “Home” tab of Anaconda: 
 
 <p align="center">
