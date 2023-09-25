@@ -11,7 +11,7 @@ https://github.com/papadopoulouV/User-guide-for-an-end-user-to-run-the-script-of
 and extract the file to your Desktop (or your desired location). An example of the code placement is shown below: 
 
 <p align="center">
-<img src="https://github.com/papadopoulouV/User-guide-for-an-end-user-to-run-the-script-of-VGE-grading-in-Doppler-ultrasound-audio/assets/38727593/ee050475-382f-40ae-b387-ad3388b819b8" width="800" align="center">
+<img src="https://github.com/papadopoulouV/User-guide-for-an-end-user-to-run-the-script-of-VGE-grading-in-Doppler-ultrasound-audio/assets/38727593/d3eb7c2a-eb2a-489e-ac7f-1d679f0eaebb" width="800" align="center">
     <br>
     <em>Figure 1. Example of GitHub code placement in computer Desktop directory. </em>
 </p>
@@ -23,7 +23,7 @@ https://www.anaconda.com/download
 Once the downloading and installation have been completed, open the software and install the built-in Jupyter Notebook as depicted below (please note that the window below is located under “Home” tab of Anaconda: 
 
 <p align="center">
-<img src="https://github.com/papadopoulouV/User-guide-for-an-end-user-to-run-the-script-of-VGE-grading-in-Doppler-ultrasound-audio/assets/38727593/9466d9e4-f5c5-4d28-b198-b6617c54b070" width="800" align="center">
+<img src="https://github.com/papadopoulouV/User-guide-for-an-end-user-to-run-the-script-of-VGE-grading-in-Doppler-ultrasound-audio/assets/38727593/27dbe842-80d2-4b92-9e99-b20aa864a270" width="800" align="center">
     <br>
     <em>Figure 2. Installation of Jupyter Notebook inside the Anaconda software. </em>
 </p>
@@ -31,7 +31,7 @@ Once the downloading and installation have been completed, open the software and
 After successful installation, click on “Launch” button to be directed to default Internet browser of your computer. From the opened window, go the location of GitHub code under your Desktop and open the Jupyter Notebook file (named as _“GitHub Repository for Doppler VGE Detection Inference.ipynb”_). An example of the step is shown below:
 
 <p align="center">
-<img src="https://github.com/papadopoulouV/User-guide-for-an-end-user-to-run-the-script-of-VGE-grading-in-Doppler-ultrasound-audio/assets/38727593/20a7022d-344f-4ddc-a7a9-d3a9ff10aff5" width="800" align="center">
+<img src="https://github.com/papadopoulouV/User-guide-for-an-end-user-to-run-the-script-of-VGE-grading-in-Doppler-ultrasound-audio/assets/38727593/e6cf498c-0fd8-4c44-af57-356dfa3984d0" width="800" align="center">
     <br>
     <em>Figure 3. Running the VGE detection in Doppler code in Jupyter Notebook. </em>
 </p>
@@ -40,7 +40,7 @@ After successful installation, click on “Launch” button to be directed to de
 To setup the data folders properly, please note that a different folder must be created for each type of data collection. To do this end, create a folder inside the folder created above (i.e., _“Code_to_run”_), name it _“Data Folder”_. Next, go inside the “Data Folder” and create two sub-folders, “Precordial” and “Subclavian”. Later, depending on the recorded data, a proper model for assessment will be selected for precordial and subclavian, respectively. An example of the steps above is shown below:
 
 <p align="center">
-<img src="https://github.com/papadopoulouV/User-guide-for-an-end-user-to-run-the-script-of-VGE-grading-in-Doppler-ultrasound-audio/assets/38727593/0371a69d-d0d7-4e6d-895f-72ff6df46ebe" width="800" align="center">
+<img src="https://github.com/papadopoulouV/User-guide-for-an-end-user-to-run-the-script-of-VGE-grading-in-Doppler-ultrasound-audio/assets/38727593/61ce59d5-570a-4470-aab8-8136d454fb73" width="800" align="center">
     <br>
     <em>Figure 4. An example of data folder setup. </em>
 </p>
@@ -50,7 +50,7 @@ Within each folder listed above, place the corresponding recorded Doppler ultras
 To install the required packages, in your Anaconda environment under the “Environment” tab, click on “Open Terminal” (‘Environments’ → ‘Green circle button to the right of your environment name’ → ‘Open Terminal’). An example is shown below:
 
 <p align="center">
-<img src="https://github.com/papadopoulouV/User-guide-for-an-end-user-to-run-the-script-of-VGE-grading-in-Doppler-ultrasound-audio/assets/38727593/4b213a07-b971-45fe-9089-f67706824538" width="800" align="center">
+<img src="https://github.com/papadopoulouV/User-guide-for-an-end-user-to-run-the-script-of-VGE-grading-in-Doppler-ultrasound-audio/assets/38727593/01feb94a-3a96-4022-aec4-03d0dffe71b8" width="800" align="center">
     <br>
     <em>Figure 5. Open terminal for required package installation. </em>
 </p>
@@ -58,7 +58,7 @@ To install the required packages, in your Anaconda environment under the “Envi
 From the opened command window, change the directory to the location of the Jupyter notebook code (i.e., ‘cd path-on-your-computer/Desktop/Code_to_run’): 
 
 <p align="center">
-<img src="https://github.com/papadopoulouV/User-guide-for-an-end-user-to-run-the-script-of-VGE-grading-in-Doppler-ultrasound-audio/assets/38727593/b51fb284-7574-4305-b5d3-1f7130aeac53" width="800" align="center">
+<img src="https://github.com/papadopoulouV/User-guide-for-an-end-user-to-run-the-script-of-VGE-grading-in-Doppler-ultrasound-audio/assets/38727593/5ffd7583-7ce0-4366-a6c9-1dfbfb326bca" width="800" align="center">
     <br>
     <em>Figure 6. Changing the directory to the location of the code. </em>
 </p>
@@ -69,21 +69,21 @@ This line of code installs all the required packages in the environment for runn
 ## 4)	Running the code
 To run the code, click on the “Run All” button under the “Cell” tab current window of Jupyter Notebook. As example of this step is shown below: 
 <p align="center">
-<img src="https://github.com/papadopoulouV/User-guide-for-an-end-user-to-run-the-script-of-VGE-grading-in-Doppler-ultrasound-audio/assets/38727593/6fa133b2-f654-4009-8326-b9534146ed55" width="800" align="center">
+<img src="https://github.com/papadopoulouV/User-guide-for-an-end-user-to-run-the-script-of-VGE-grading-in-Doppler-ultrasound-audio/assets/38727593/adfbf093-d3cd-4934-91c8-53f7a62f75c5" width="800" align="center">
     <br>
     <em>Figure 7. Execution of code in Jupyter Notebook. </em>
 </p>
 
 Select your desired data folder to start: 
 <p align="center">
-<img src="https://github.com/papadopoulouV/User-guide-for-an-end-user-to-run-the-script-of-VGE-grading-in-Doppler-ultrasound-audio/assets/38727593/8e578449-e8fb-4a54-a533-e07a7a2047ac" width="800" align="center">
+<img src="https://github.com/papadopoulouV/User-guide-for-an-end-user-to-run-the-script-of-VGE-grading-in-Doppler-ultrasound-audio/assets/38727593/9c8c37fe-29e7-4384-83cf-1dc37b5bbc77" width="800" align="center">
     <br>
     <em>Figure 8. Proper data folder selection. </em>
 </p>
 
 This step sets the path of the data folder permanently and whenever you want to make changes to your data folder, you need to re-do this step. Next, the code checks for the sampling rate of the recorded Doppler ultrasound audio files. If needed, it gets resampled to 8 kHz. Upon successful run of this step, you will see a similar message in output: 
 <p align="center">
-<img src="https://github.com/papadopoulouV/User-guide-for-an-end-user-to-run-the-script-of-VGE-grading-in-Doppler-ultrasound-audio/assets/38727593/e286fb7e-1e5c-4b41-ac0e-86acd3005726" width="800" align="center">
+<img src="https://github.com/papadopoulouV/User-guide-for-an-end-user-to-run-the-script-of-VGE-grading-in-Doppler-ultrasound-audio/assets/38727593/8156d6e0-6ea2-41f2-8ad0-8bed6cd18651" width="800" align="center">
     <br>
     <em>Figure 9. Successful resampling step. </em>
 </p>
