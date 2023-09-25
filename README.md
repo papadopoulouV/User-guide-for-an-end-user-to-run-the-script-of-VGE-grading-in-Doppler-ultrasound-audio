@@ -92,6 +92,7 @@ After this step, the proper model should be selected to be applied on pre-proces
 Upon applying the proper model, the results are displayed in two different modes: 
 -	Majority voting on non-overlapping 10-second audio segments
 -	Majority voting on overlapping 10-second audio segments (50% overlap)
+
 These two modes are annotated in the code in two different sections.
 
 ## License 
