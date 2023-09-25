@@ -70,7 +70,7 @@ To run the code, click on the “Run All” button under the “Cell” tab curr
     <em>Figure 7. Execution of code in Jupyter Notebook. </em>
 </p>
 
-select your desired data folder to start: 
+Select your desired data folder to start: 
 <p align="center">
 <img src="https://github.com/papadopoulouV/User-guide-for-an-end-user-to-run-the-script-of-VGE-grading-in-Doppler-ultrasound-audio/assets/38727593/8e578449-e8fb-4a54-a533-e07a7a2047ac" width="800" align="center">
     <br>
@@ -89,4 +89,11 @@ Upon applying the proper model, the results are displayed in two different modes
 -	Majority voting on non-overlapping 10-second audio segments
 -	Majority voting on overlapping 10-second audio segments (50% overlap)
 These two modes are annotated in the code in two different sections.
+
+## License 
+The codes are licensed under GPL-2.0 license.
+
+## References 
+[1] Azarang, A., Le, D.Q., Hoang, A., Blogg, L.S., Dayton, P.A., Lance, R.M., Natoli, M., Gatrell, A., Tillmans, F., Moon, R.E. and Lindholm, P., 2022. Deep Learning-Based Venous Gas Emboli Grade Classification in Doppler Ultrasound Audio Recordings. IEEE Transactions on Biomedical Engineering.
+
 
