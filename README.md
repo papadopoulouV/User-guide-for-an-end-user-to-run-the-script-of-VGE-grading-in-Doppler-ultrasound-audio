@@ -11,7 +11,7 @@ https://github.com/papadopoulouV/User-guide-for-an-end-user-to-run-the-script-of
 and extract the file to your Desktop (or your desired location). An example of the code placement is shown below: 
 
 <p align="center">
-<img src="https://github.com/papadopoulouV/User-guide-for-an-end-user-to-run-the-script-of-VGE-grading-in-Doppler-ultrasound-audio/assets/38727593/d3eb7c2a-eb2a-489e-ac7f-1d679f0eaebb" width="800" align="center">
+<img src="https://github.com/papadopoulouV/User-guide-for-an-end-user-to-run-the-script-of-VGE-grading-in-Doppler-ultrasound-audio/assets/38727593/681dd6e9-5f5b-4283-ae2a-886303948004" width="800" align="center">
     <br>
     <em>Figure 1. Example of GitHub code placement in computer Desktop directory. </em>
 </p>
