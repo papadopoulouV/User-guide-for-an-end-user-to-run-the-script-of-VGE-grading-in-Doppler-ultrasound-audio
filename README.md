@@ -28,10 +28,10 @@ Once the downloading and installation have been completed, open the software and
     <em>Figure 2. Installation of Jupyter Notebook inside the Anaconda software. </em>
 </p>
 
-After successful installation, click on “Launch” button to be directed to default Internet browser of your computer. From the opened window, go the location of GitHub code under your Desktop and open the Jupyter Notebook file (named as _“GitHub Repository for Doppler VGE Detection Inference.ipynb”_). An example of the step is shown below:
+After successful installation, click on “Launch” button to be directed to default Internet browser of your computer. From the opened window, go the location of GitHub code under your Desktop and open the Jupyter Notebook file (named as _“UNC_Doppler_Grader.ipynb”_). An example of the step is shown below:
 
 <p align="center">
-<img src="https://github.com/papadopoulouV/User-guide-for-an-end-user-to-run-the-script-of-VGE-grading-in-Doppler-ultrasound-audio/assets/38727593/e6cf498c-0fd8-4c44-af57-356dfa3984d0" width="800" align="center">
+<img src="https://github.com/papadopoulouV/User-guide-for-an-end-user-to-run-the-script-of-VGE-grading-in-Doppler-ultrasound-audio/assets/38727593/e07d3f24-d25b-46c2-aa0a-47d66c9cbc4e" width="800" align="center">
     <br>
     <em>Figure 3. Running the VGE detection in Doppler code in Jupyter Notebook. </em>
 </p>
@@ -40,12 +40,12 @@ After successful installation, click on “Launch” button to be directed to de
 To setup the data folders properly, please note that a different folder must be created for each type of data collection. To do this end, create a folder inside the folder created above (i.e., _“Code_to_run”_), name it _“Data Folder”_. Next, go inside the “Data Folder” and create two sub-folders, “Precordial” and “Subclavian”. Later, depending on the recorded data, a proper model for assessment will be selected for precordial and subclavian, respectively. An example of the steps above is shown below:
 
 <p align="center">
-<img src="https://github.com/papadopoulouV/User-guide-for-an-end-user-to-run-the-script-of-VGE-grading-in-Doppler-ultrasound-audio/assets/38727593/61ce59d5-570a-4470-aab8-8136d454fb73" width="800" align="center">
+<img src="https://github.com/papadopoulouV/User-guide-for-an-end-user-to-run-the-script-of-VGE-grading-in-Doppler-ultrasound-audio/assets/38727593/b1008b64-6b47-4473-85c7-1d873944574b" width="800" align="center">
     <br>
     <em>Figure 4. An example of data folder setup. </em>
 </p>
 
-Within each folder listed above, place the corresponding recorded Doppler ultrasound audio files to be assessed. The user must create a third folder under _“Code_to_run”_ and name it _"Models"_. The available models in this repository, i.e., **"RAW_PRECORDIAL.h5"** and **"RAW_SUBCLAVIAN.h5"** should be placed in this folder.
+Within each folder listed above, place the corresponding recorded Doppler ultrasound audio files to be assessed. The user must create a third folder under _“Data Folder”_ and name it _"Models"_. The available models in this repository, i.e., **"RAW_PRECORDIAL.h5"** and **"RAW_SUBCLAVIAN.h5"** should be placed in this folder.
 ## 3)	Required Python package installation
 To install the required packages, in your Anaconda environment under the “Environment” tab, click on “Open Terminal” (‘Environments’ → ‘Green circle button to the right of your environment name’ → ‘Open Terminal’). An example is shown below:
 
